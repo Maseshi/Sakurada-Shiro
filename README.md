@@ -43,17 +43,17 @@ These previews were captured during testing periods and may differ from the skin
 
 <details>
     <summary>These contents may contain spoilers. <strong>(click to continue)</strong></summary>
-    <img src="../assets/preview/en/screenshot001.png" alt="Example picture 1" style="border-radius: 10px" width="300" height="auto" />
-    <img src="../assets/preview/en/screenshot002.png" alt="Example picture 2" style="border-radius: 10px" width="300" height="auto" />
-    <img src="../assets/preview/en/screenshot003.png" alt="Example picture 3" style="border-radius: 10px" width="300" height="auto" />
-    <img src="../assets/preview/en/screenshot004.png" alt="Example picture 4" style="border-radius: 10px" width="300" height="auto" />
-    <img src="../assets/preview/en/screenshot005.png" alt="Example picture 5" style="border-radius: 10px" width="300" height="auto" />
-    <img src="../assets/preview/en/screenshot006.png" alt="Example picture 6" style="border-radius: 10px" width="300" height="auto" />
-    <img src="../assets/preview/en/screenshot007.png" alt="Example picture 7" style="border-radius: 10px" width="300" height="auto" />
-    <img src="../assets/preview/en/screenshot008.png" alt="Example picture 8" style="border-radius: 10px" width="300" height="auto" />
-    <img src="../assets/preview/en/screenshot009.png" alt="Example picture 9" style="border-radius: 10px" width="300" height="auto" />
-    <img src="../assets/preview/en/screenshot010.png" alt="Example picture 10" style="border-radius: 10px" width="300" height="auto" />
-    <img src="../assets/preview/en/screenshot011.png" alt="Example picture 11" style="border-radius: 10px" width="300" height="auto" />
+    <img src="./assets/preview/en/screenshot001.png" alt="Example picture 1" style="border-radius: 10px" width="300" height="auto" />
+    <img src="./assets/preview/en/screenshot002.png" alt="Example picture 2" style="border-radius: 10px" width="300" height="auto" />
+    <img src="./assets/preview/en/screenshot003.png" alt="Example picture 3" style="border-radius: 10px" width="300" height="auto" />
+    <img src="./assets/preview/en/screenshot004.png" alt="Example picture 4" style="border-radius: 10px" width="300" height="auto" />
+    <img src="./assets/preview/en/screenshot005.png" alt="Example picture 5" style="border-radius: 10px" width="300" height="auto" />
+    <img src="./assets/preview/en/screenshot006.png" alt="Example picture 6" style="border-radius: 10px" width="300" height="auto" />
+    <img src="./assets/preview/en/screenshot007.png" alt="Example picture 7" style="border-radius: 10px" width="300" height="auto" />
+    <img src="./assets/preview/en/screenshot008.png" alt="Example picture 8" style="border-radius: 10px" width="300" height="auto" />
+    <img src="./assets/preview/en/screenshot009.png" alt="Example picture 9" style="border-radius: 10px" width="300" height="auto" />
+    <img src="./assets/preview/en/screenshot010.png" alt="Example picture 10" style="border-radius: 10px" width="300" height="auto" />
+    <img src="./assets/preview/en/screenshot011.png" alt="Example picture 11" style="border-radius: 10px" width="300" height="auto" />
 </details>
 
 ## Limitation
