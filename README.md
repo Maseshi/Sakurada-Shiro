@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="../assets/icons/android-chrome-512x512.png" style="border-radius: 20px;" alt="sakurada shiro" width="100px" height="100px" />
+    <img src="./assets/icons/android-chrome-512x512.png" style="border-radius: 20px;" alt="sakurada shiro" width="100px" height="100px" />
     <h1>
       <strong>Sakurada Shiro</strong>
     </h1>
