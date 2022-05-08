@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="../assets/icons/android-chrome-512x512.png" style="border-radius: 20px;" alt="sakurada shiro" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/Maseshi/Sakurada-Shiro/beta/assets/icons/favicon-circle.ico" alt="sakurada shiro" width="100px" height="100px" />
     <h1>
       <strong>Sakurada Shiro</strong>
     </h1>
@@ -10,10 +10,10 @@
 
 Simple and colorful skins. With 60 FPS frame rate animations, you'll be able to play like a pro without a doubt.
 
-## Data language
+## Data languages
 
 - [English](https://github.com/Maseshi/Sakurada-Shiro/blob/beta/documents/README.en.md)
-- [日本](https://github.com/Maseshi/Sakurada-Shiro/blob/beta/documents/README.jp.md)
+- [日本](https://github.com/Maseshi/Sakurada-Shiro/blob/beta/documents/README.ja.md)
 - [ไทย](https://github.com/Maseshi/Sakurada-Shiro/blob/beta/documents/README.th.md)
 
 ## All topics
@@ -24,6 +24,7 @@ Simple and colorful skins. With 60 FPS frame rate animations, you'll be able to 
 - [Skin installation](#skin-installation)
   - [Normal installation](#normal-installation)
   - [Install by yourself](#install-by-yourself)
+- [Like the work](#like-the-work)
 - [Credit](#credit)
 - [Found a problem](#found-a-problem)
 - [Google Translate](#google-translate)
@@ -43,17 +44,17 @@ These previews were captured during testing periods and may differ from the skin
 
 <details>
     <summary>These contents may contain spoilers. <strong>(click to continue)</strong></summary>
-    <img src="../assets/preview/en/screenshot001.png" alt="Example picture 1" style="border-radius: 10px" width="300" height="auto" />
-    <img src="../assets/preview/en/screenshot002.png" alt="Example picture 2" style="border-radius: 10px" width="300" height="auto" />
-    <img src="../assets/preview/en/screenshot003.png" alt="Example picture 3" style="border-radius: 10px" width="300" height="auto" />
-    <img src="../assets/preview/en/screenshot004.png" alt="Example picture 4" style="border-radius: 10px" width="300" height="auto" />
-    <img src="../assets/preview/en/screenshot005.png" alt="Example picture 5" style="border-radius: 10px" width="300" height="auto" />
-    <img src="../assets/preview/en/screenshot006.png" alt="Example picture 6" style="border-radius: 10px" width="300" height="auto" />
-    <img src="../assets/preview/en/screenshot007.png" alt="Example picture 7" style="border-radius: 10px" width="300" height="auto" />
-    <img src="../assets/preview/en/screenshot008.png" alt="Example picture 8" style="border-radius: 10px" width="300" height="auto" />
-    <img src="../assets/preview/en/screenshot009.png" alt="Example picture 9" style="border-radius: 10px" width="300" height="auto" />
-    <img src="../assets/preview/en/screenshot010.png" alt="Example picture 10" style="border-radius: 10px" width="300" height="auto" />
-    <img src="../assets/preview/en/screenshot011.png" alt="Example picture 11" style="border-radius: 10px" width="300" height="auto" />
+    <img src="https://raw.githubusercontent.com/Maseshi/Sakurada-Shiro/beta/assets/images/preview-en-1.png" alt="Example picture 1" width="300" height="auto" />
+    <img src="https://raw.githubusercontent.com/Maseshi/Sakurada-Shiro/beta/assets/images/preview-en-2.png" alt="Example picture 2" width="300" height="auto" />
+    <img src="https://raw.githubusercontent.com/Maseshi/Sakurada-Shiro/beta/assets/images/preview-en-3.png" alt="Example picture 3" width="300" height="auto" />
+    <img src="https://raw.githubusercontent.com/Maseshi/Sakurada-Shiro/beta/assets/images/preview-en-4.png" alt="Example picture 4" width="300" height="auto" />
+    <img src="https://raw.githubusercontent.com/Maseshi/Sakurada-Shiro/beta/assets/images/preview-en-5.png" alt="Example picture 5" width="300" height="auto" />
+    <img src="https://raw.githubusercontent.com/Maseshi/Sakurada-Shiro/beta/assets/images/preview-en-6.png" alt="Example picture 6" width="300" height="auto" />
+    <img src="https://raw.githubusercontent.com/Maseshi/Sakurada-Shiro/beta/assets/images/preview-en-7.png" alt="Example picture 7" width="300" height="auto" />
+    <img src="https://raw.githubusercontent.com/Maseshi/Sakurada-Shiro/beta/assets/images/preview-en-8.png" alt="Example picture 8" width="300" height="auto" />
+    <img src="https://raw.githubusercontent.com/Maseshi/Sakurada-Shiro/beta/assets/images/preview-en-9.png" alt="Example picture 9" width="300" height="auto" />
+    <img src="https://raw.githubusercontent.com/Maseshi/Sakurada-Shiro/beta/assets/images/preview-en-10.png" alt="Example picture 10" width="300" height="auto" />
+    <img src="https://raw.githubusercontent.com/Maseshi/Sakurada-Shiro/beta/assets/images/preview-en-11.png" alt="Example picture 11" width="300" height="auto" />
 </details>
 
 ## Limitation
@@ -61,7 +62,7 @@ These previews were captured during testing periods and may differ from the skin
 Due to various reasons, we have these limitations. We sincerely apologize for these restrictions and these are the limitations of this skin.
 
 - Skins are currently not supported in mania, catch, taiko modes, which will be rendered as default skins instead.
-- Skins may not display properly for screens with resolutions greater than 1366x768.
+- Resolutions of 16:10 screens are not yet supported, where skins may not display properly.
 - Skins are not yet supported for those who have [osu!supporter](https://osu.ppy.sh/home/support) full
 
 If you have the ability and would like to help us get rid of these limitations. You can help us by [pull request](https://github.com/Maseshi/Sakurada-Shiro/pulls) from this repository or [support us](https://patreon.com/maseshi) to provide. This project can still go on.
@@ -81,13 +82,22 @@ To install any skin pack You need to install osu! Before you can install this sk
 1. Download the **Sakurada Shiro** skin pack from [this page](https://github.com/Maseshi/Sakurada-Shiro/releases/latest) by downloading the file named **Sakurada Shiro.zip**.
 2. Once the download is complete, open the **Sakurada Shiro.zip** file and extract all files in the **Sakurada Shiro** folder.
    > **NOTE:** The extraction method differs for each operating system. You can find more details on how to extract the files from these links.
+   >
    > - [For the operating system MacOS](https://support.apple.com/guide/mac-help/zip-and-unzip-files-and-folders-on-mac-mchlp2528/mac)
    > - [For the operating system Windows](https://support.microsoft.com/en-us/windows/zip-and-unzip-files-f6dde0a7-0fec-8294-e1d3-703ed85e7ebc)
 3. Once the extraction is complete, move the **Sakurada Shiro** folder to the osu game file directory! Yours, which will look like `C:\Program Files\osu!\Skins\`
 4. After moving the files Now you will need to enter osu! to select a skin to use. When entering the game, press **Options**, then type **Skins**, an option will appear named **"Skin"** along with other options. If the default option is **Defualt**, select the skin named **Sakurada Shiro**.
 5. Run a test by playing once or clicking Preview **(Preview gameplay)** to see if the game has changed the skin. If not, you may need to start the installation again.
 
-## Credit
+## Like the work
+
+Like our work? Buy our coffee!
+
+<a href="https://www.buymeacoffee.com/maseshi" target="_blank">
+     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150px" />
+</a>
+
+## Credits
 
 within such skins We are not all of them and below are the sources of all references and the names of the authors of the work. Thank you in advance for these great works.
 

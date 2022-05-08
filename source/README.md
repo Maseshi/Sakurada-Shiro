@@ -4,3 +4,16 @@
 
 # Sorting files and folders
 these files and folders It has been organized according to the documentation of osu! To make it easier to find information on each topic. You can see it at https://osu.ppy.sh/wiki/en/Skinning
+
+# Screen resolution
+
+As the device I used for testing had a default resolution of **1366x768**, monitors with higher resolutions may not display properly.
+
+Tested and supported screen resolutions are now available.
+
+- 16:9
+
+Screen resolutions that are currently not supported.
+
+- 4:3
+- 16:10

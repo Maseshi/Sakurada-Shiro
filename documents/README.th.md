@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="../assets/icons/android-chrome-512x512.png" style="border-radius: 20px;" alt="sakurada shiro" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/Maseshi/Sakurada-Shiro/beta/assets/icons/favicon-circle.ico" alt="sakurada shiro" width="100px" height="100px" />
     <h1>
       <strong>Sakurada Shiro</strong>
     </h1>
@@ -13,7 +13,7 @@
 ## ภาษาของข้อมูล
 
 - [English](https://github.com/Maseshi/Sakurada-Shiro/blob/beta/documents/README.en.md)
-- [日本](https://github.com/Maseshi/Sakurada-Shiro/blob/beta/documents/README.jp.md)
+- [日本](https://github.com/Maseshi/Sakurada-Shiro/blob/beta/documents/README.ja.md)
 - [ไทย](https://github.com/Maseshi/Sakurada-Shiro/blob/beta/documents/README.th.md)
 
 ## หัวข้อทั้งหมด
@@ -24,6 +24,7 @@
 - [การติดตั้งสกิน](#การติดตั้งสกิน)
   - [ติดตั้งแบบปกติ](#ติดตั้งแบบปกติ)
   - [ติดตั้งด้วยตัวเอง](#ติดตั้งด้วยตัวเอง)
+- [ชอบผลงาน](#ชอบผลงาน)
 - [เครดิต](#เครดิต)
 - [พบปัญหา](#พบปัญหา)
 
@@ -42,17 +43,17 @@
 
 <details>
     <summary>เนื้อหาเหล่านี้อาจเป็นสปอย <strong>(คลิกเพื่อดำเนินการต่อ)</strong></summary>
-    <img src="../assets/preview/th/screenshot001.png" alt="ภาพตัวอย่างที่ 1" style="border-radius: 10px;" width="300" height="auto" />
-    <img src="../assets/preview/th/screenshot002.png" alt="ภาพตัวอย่างที่ 2" style="border-radius: 10px;" width="300" height="auto" />
-    <img src="../assets/preview/th/screenshot003.png" alt="ภาพตัวอย่างที่ 3" style="border-radius: 10px;" width="300" height="auto" />
-    <img src="../assets/preview/th/screenshot004.png" alt="ภาพตัวอย่างที่ 4" style="border-radius: 10px;" width="300" height="auto" />
-    <img src="../assets/preview/th/screenshot005.png" alt="ภาพตัวอย่างที่ 5" style="border-radius: 10px;" width="300" height="auto" />
-    <img src="../assets/preview/th/screenshot006.png" alt="ภาพตัวอย่างที่ 6" style="border-radius: 10px;" width="300" height="auto" />
-    <img src="../assets/preview/th/screenshot007.png" alt="ภาพตัวอย่างที่ 7" style="border-radius: 10px;" width="300" height="auto" />
-    <img src="../assets/preview/th/screenshot008.png" alt="ภาพตัวอย่างที่ 8" style="border-radius: 10px;" width="300" height="auto" />
-    <img src="../assets/preview/th/screenshot009.png" alt="ภาพตัวอย่างที่ 9" style="border-radius: 10px;" width="300" height="auto" />
-    <img src="../assets/preview/th/screenshot010.png" alt="ภาพตัวอย่างที่ 10" style="border-radius: 10px;" width="300" height="auto" />
-    <img src="../assets/preview/th/screenshot011.png" alt="ภาพตัวอย่างที่ 11" style="border-radius: 10px;" width="300" height="auto" />
+    <img src="https://raw.githubusercontent.com/Maseshi/Sakurada-Shiro/beta/assets/images/preview-th-1.png" alt="ภาพตัวอย่างที่ 1" style="border-radius: 10px;" width="300" height="auto" />
+    <img src="https://raw.githubusercontent.com/Maseshi/Sakurada-Shiro/beta/assets/images/preview-th-2.png" alt="ภาพตัวอย่างที่ 2" style="border-radius: 10px;" width="300" height="auto" />
+    <img src="https://raw.githubusercontent.com/Maseshi/Sakurada-Shiro/beta/assets/images/preview-th-3.png" alt="ภาพตัวอย่างที่ 3" style="border-radius: 10px;" width="300" height="auto" />
+    <img src="https://raw.githubusercontent.com/Maseshi/Sakurada-Shiro/beta/assets/images/preview-th-4.png" alt="ภาพตัวอย่างที่ 4" style="border-radius: 10px;" width="300" height="auto" />
+    <img src="https://raw.githubusercontent.com/Maseshi/Sakurada-Shiro/beta/assets/images/preview-th-5.png" alt="ภาพตัวอย่างที่ 5" style="border-radius: 10px;" width="300" height="auto" />
+    <img src="https://raw.githubusercontent.com/Maseshi/Sakurada-Shiro/beta/assets/images/preview-th-6.png" alt="ภาพตัวอย่างที่ 6" style="border-radius: 10px;" width="300" height="auto" />
+    <img src="https://raw.githubusercontent.com/Maseshi/Sakurada-Shiro/beta/assets/images/preview-th-7.png" alt="ภาพตัวอย่างที่ 7" style="border-radius: 10px;" width="300" height="auto" />
+    <img src="https://raw.githubusercontent.com/Maseshi/Sakurada-Shiro/beta/assets/images/preview-th-8.png" alt="ภาพตัวอย่างที่ 8" style="border-radius: 10px;" width="300" height="auto" />
+    <img src="https://raw.githubusercontent.com/Maseshi/Sakurada-Shiro/beta/assets/images/preview-th-9.png" alt="ภาพตัวอย่างที่ 9" style="border-radius: 10px;" width="300" height="auto" />
+    <img src="https://raw.githubusercontent.com/Maseshi/Sakurada-Shiro/beta/assets/images/preview-th-10.png" alt="ภาพตัวอย่างที่ 10" style="border-radius: 10px;" width="300" height="auto" />
+    <img src="https://raw.githubusercontent.com/Maseshi/Sakurada-Shiro/beta/assets/images/preview-th-11.png" alt="ภาพตัวอย่างที่ 11" style="border-radius: 10px;" width="300" height="auto" />
 </details>
 
 ## ข้อจำกัด
@@ -60,7 +61,7 @@
 เนื่องด้วยเหตุผลทางหลายๆ อย่าง ทำให้เรามีข้อจำกัดเหล่านี้ขึ้นมา เราต้องขออภัยอย่างยิ่งสำหรับข้อจำกัดเหล่านี้และนี่คือข้อจำกัดของสกินนี้
 
 - ขณะนี้สกินยังไม่รองรับในโหมด mania, catch, taiko ซึ่งจะแสดงผลเป็นสกินเริ่มต้นแทน
-- สกินอาจแสดงผลไม่ถูกต้องสำหรับหน้าจอที่มีความละเอียดมากกว่า 1366x768
+- ยังไม่รองรับความละเอียดของหน้าจอที่มีขนาด 16:10 ซึ่งสกินอาจแสดงผลไม่ถูกต้อง
 - สกินยังไม่รองรับสำหรับผู้ที่มี [osu!supporter](https://osu.ppy.sh/home/support) อย่างเต็มรูปแบบ
 
 หากคุณมีความสามารถและต้องการช่วยเหลือเราเพื่อกำจัดข้อจำกัดเหล่านี้ คุณสามารถช่วยเหลือเราโดยการ[ดึงคำขอ](https://github.com/Maseshi/Sakurada-Shiro/pulls)จากพื้นที่เก็บนี้ได้หรือ[สนับสนุนเรา](https://patreon.com/maseshi)เพื่อให้โครงการนี้ยังคงอยู่ต่อไปได้
@@ -80,11 +81,20 @@
 1. ทำการดาวน์โหลดชุดสกิน **Sakurada Shiro** จาก[หน้านี้](https://github.com/Maseshi/Sakurada-Shiro/releases/latest) โดยดาวน์โหลดไฟล์ที่มีชื่อว่า **Sakurada Shiro.zip**
 2. เมื่อดาวน์โหลดเสร็จสิ้นให้ทำการเปิดไฟล์ **Sakurada Shiro.zip** แล้วทำการแตกไฟล์ทั้งหมดไว้ในโฟลเดอร์ **Sakurada Shiro**
    > **หมายเหตุ:** วิธีการแตกไฟล์จะแตกต่างกันออกไปในแต่ละระบบปฎิบัติการ คุณสามารถดูรายละเอียดเพิ่มเติมสำหรับวิธีการแตกไฟล์ได้จากลิงค์เหล่านี้
+   >
    > - [สำหรับระบบปฎิบัติการ MacOS](https://support.apple.com/th-th/guide/mac-help/mchlp2528/mac)
    > - [สำหรับระบบปฎิบัติการ Windows](https://support.microsoft.com/th-th/windows/zip-%E0%B9%81%E0%B8%A5%E0%B8%B0-unzip-%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C-f6dde0a7-0fec-8294-e1d3-703ed85e7ebc)
 3. เมื่อแตกไฟล์เสร็จสิ้นให้ย้ายโฟลเดอร์ **Sakurada Shiro** ไปที่ไดเรกทอรีไฟล์เกม osu! ของคุณ ซึ่งจะมีลักษณะดังนี้ `C:\Program Files\osu!\Skins\`
 4. หลังจากย้ายไฟล์แล้ว ตอนนี้คุณจะต้องเข้า osu! เพื่อเลือกสกินที่จะใช้งาน โดยเมื่อเข้าเกมแล้ว ให้ทำการกด **Options** จากนั้นพิมพ์ว่า **Skins** จะมีตัวเลือกปรากฎขึ้นมาจะมีชื่อว่า **"สกิน"** พร้อมกับตัวเลือกอื่นๆ ซึ่งหากเป็นค่าเริ่มต้นในตัวเลือกจะเลือกเป็น **Defualt** หลังจากนั้นทำการเลือกสกินที่มีชื่อว่า **Sakurada Shiro**
 5. ทำการทดสอบโดยลองเล่นสักครั้งหรือคลิกดูตัวอย่างการเล่นเกม **(Preview gameplay)** เพื่อดูว่าเกมได้ทำการเปลี่ยนสกินให้หรือยัง หากไม่คุณอาจจะต้องเริ่มติดตั้งใหม่อีกครั้ง
+
+## ชอบผลงาน
+
+ชอบผลงานของเราใช่ไหม ซื้อกาแฟของเราสิ!
+
+<a href="https://www.buymeacoffee.com/maseshi" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150px" />
+</a>
 
 ## เครดิต
 
