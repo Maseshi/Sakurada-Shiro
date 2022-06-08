@@ -7,7 +7,7 @@ these files and folders It has been organized according to the documentation of 
 
 # Screen resolution
 
-As the device I used for testing had a default resolution of **1366x768**, monitors with higher resolutions may not display properly.
+As the device I used for testing had a default resolution of **1366x768**, monitors with higher or lower resolutions may not display properly.
 
 Tested and supported screen resolutions are now available.
 
