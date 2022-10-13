@@ -4,6 +4,7 @@
       <strong>Sakurada Shiro</strong>
     </h1>
     <img src="https://img.shields.io/badge/osu!-latest-FF66AA?logo=osu!&logoColor=white&style=flat-square" alt="" />
+    <img src="https://img.shields.io/badge/osu!lazer-support-33F46F?logo=osu!&logoColor=white&style=flat-square" alt="" />
     <img src="https://img.shields.io/github/stars/Maseshi/Sakurada-Shiro.svg?logo=github&style=flat-square" alt="" />
     <img src="https://img.shields.io/github/license/Maseshi/Sakurada-Shiro.svg?logo=github&style=flat-square" alt="" />
 </div>
@@ -32,6 +33,9 @@
 ## 優れた機能
 
 - シンプルさを重視 見やすく、カラフルに見えます。
+- 選択できる構成ファイルがあります。
+- ライトモードとダークモードに対応。
+- 非キャラクター版で利用可能。
 - 60FPS フレームレートでスムーズなアニメーション
 - この肌のメインカラーとして白、黒、青を強調します。
 - 素敵なクリック音はあなたがより良く演奏するのに役立ちます。
@@ -88,14 +92,6 @@
 3. 抽出が完了したら、**Sakurada Shiro**フォルダーを osu ゲームファイルディレクトリに移動します。あなたのもの、それは `C\Program Files\osu\Skins\`のようになります
 4. ファイルを移動した後今、あなたは osu を入力する必要があります！使用するスキンを選択します。ゲームに入るとき、**オプション**を押してから**スキン**と入力すると、**「スキン」**という名前のオプションが他のオプションとともに表示されます。デフォルトのオプションが**Defualt**の場合、**Sakurada Shiro**という名前のスキンを選択します。
 5. 一度プレイするか、[プレビュー **(Preview gameplay)**]をクリックしてテストを実行し、ゲームのスキンが変更されたかどうかを確認します。そうでない場合は、インストールを再開する必要があります。
-
-## 仕事のように
-
-私たちの仕事が好きですか？ 私たちのコーヒーを購入！
-
-<a href="https://www.buymeacoffee.com/maseshi" target="_blank">
-     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150px" />
-</a>
 
 ## クレジット
 

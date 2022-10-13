@@ -4,6 +4,7 @@
       <strong>Sakurada Shiro</strong>
     </h1>
     <img src="https://img.shields.io/badge/osu!-latest-FF66AA?logo=osu!&logoColor=white&style=flat-square" alt="" />
+    <img src="https://img.shields.io/badge/osu!lazer-support-33F46F?logo=osu!&logoColor=white&style=flat-square" alt="" />
     <img src="https://img.shields.io/github/stars/Maseshi/Sakurada-Shiro.svg?logo=github&style=flat-square" alt="" />
     <img src="https://img.shields.io/github/license/Maseshi/Sakurada-Shiro.svg?logo=github&style=flat-square" alt="" />
 </div>
@@ -32,6 +33,9 @@ Simple and colorful skins. With 60 FPS frame rate animations, you'll be able to 
 ## Outstanding features
 
 - focus on simplicity It's easy on the eyes and looks colorful.
+- There is a configuration file to choose from.
+- Available for light mode and dark mode.
+- Available for non-character version.
 - Smooth animations at 60 FPS frame rate
 - Emphasize white, black, blue as the main color of this skin.
 - Nice clicking sounds will help you play better.
@@ -88,14 +92,6 @@ To install any skin pack You need to install osu! Before you can install this sk
 3. Once the extraction is complete, move the **Sakurada Shiro** folder to the osu game file directory! Yours, which will look like `C:\Program Files\osu!\Skins\`
 4. After moving the files Now you will need to enter osu! to select a skin to use. When entering the game, press **Options**, then type **Skins**, an option will appear named **"Skin"** along with other options. If the default option is **Defualt**, select the skin named **Sakurada Shiro**.
 5. Run a test by playing once or clicking Preview **(Preview gameplay)** to see if the game has changed the skin. If not, you may need to start the installation again.
-
-## Like the work
-
-Like our work? Buy our coffee!
-
-<a href="https://www.buymeacoffee.com/maseshi" target="_blank">
-     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150px" />
-</a>
 
 ## Credits
 
