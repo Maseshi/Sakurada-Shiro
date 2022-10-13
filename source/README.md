@@ -3,7 +3,12 @@
 </div>
 
 # Sorting files and folders
+
 these files and folders It has been organized according to the documentation of osu! To make it easier to find information on each topic. You can see it at https://osu.ppy.sh/wiki/en/Skinning
+
+# Non-weeb version
+
+This skin supports non-weeb version, you can check it in those files.
 
 # Screen resolution
 
